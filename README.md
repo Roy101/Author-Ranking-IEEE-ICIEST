@@ -1,12 +1,9 @@
 # Author-Ranking-IEEE-ICIEST
 This is the code for our paper author ranking which is submitted to IEEE ICIEST.
->📋  A template README.md for code accompanying a Machine Learning paper
 
 # A Study on Author Ranking
 
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
-
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+This repository is the official implementation of [A Study on Author Ranking](https://arxiv.org/abs/2030.12345). 
 
 ## Requirements
 
