@@ -10,4 +10,4 @@ This repository is the official implementation of [A Study on Author Ranking](ht
 
 ## Contributing
 
->📋  Pick a licence and describe how to contribute to your code repository. 
+>📋  Liciense under [GNU License](LICENSE)
