@@ -10,4 +10,4 @@ This repository is the official implementation of [A Study on Author Ranking](ht
 
 ## Contributing
 
->📋  Liciense under [GNU License](LICENSE)
+>📋  Liciense under [GNU license](LICENSE)
